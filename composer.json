@@ -1,0 +1,17 @@
+{
+    "name": "tamiorh/laravel-native-enum",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tamiorh\\LaravelNativeEnum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tamiroh",
+            "email": "tamiroh71@gmail.com"
+        }
+    ],
+    "require": {}
+}
